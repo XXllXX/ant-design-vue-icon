@@ -1,24 +1,11 @@
-# ant-design-vue-icon
+## svg 文件转对象
 
-## Project setup
-```
-yarn install
-```
+> https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-svg
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 安装
 
-### Compiles and minifies for production
 ```
-yarn build
+yarn add @xxllxx/ant-design-icons --dev
+或
+npm -i @xxllxx/ant-design-icons  -d
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
